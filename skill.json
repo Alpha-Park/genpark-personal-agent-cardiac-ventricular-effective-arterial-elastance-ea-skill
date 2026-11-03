@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-cardiac-ventricular-effective-arterial-elastance-ea-skill",
+  "version": "1.0.0",
+  "description": "Calculates Effective Arterial Elastance (Ea), End-Systolic Elastance (Ees), and Ventriculo-Arterial Coupling ratio (Ea/Ees) to assess myocardial energetic efficiency.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiology",
+    "elastance",
+    "afterload",
+    "ventriculo-arterial-coupling",
+    "hemodynamics",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
